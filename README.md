@@ -19,7 +19,7 @@ Describe your challenges here
 ## Commit Log
 
 1. Initial commit - added a README file
-2.
+2. added the main dart file
 
 ## References
 
