@@ -20,6 +20,8 @@ Describe your challenges here
 
 1. Initial commit - added a README file
 2. added the main dart file
+3. added a note to the main file
+4.
 
 ## References
 

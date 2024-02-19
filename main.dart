@@ -1,3 +1,10 @@
+/*
+NOTE: Please make sure NOT TO MAKE ANY CHANGES IN THIS FILE.
+You can only edit this file when changing the values of the arguments.
+Any changes to the logic of the program should be done in their respective program files.
+Make sure to create the appropriate folders or filenames to ensure that the main program works.
+*/
+
 // Imports
 import 'vehicles/vehicles.dart';
 import 'commuters/commuters.dart';
