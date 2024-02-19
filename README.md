@@ -1,8 +1,8 @@
 # Week 1: Introduction to Dart
 
-**Name:** Your Name `enter`
-**Section:** U-#L `enter`
-**Student number:** 2018 - 12345 `enter`
+**Name:** Your Name \n
+**Section:** U-#L \n
+**Student number:** 2018 - 12345 \n
 
 ## Code Description
 
