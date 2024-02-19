@@ -1,8 +1,8 @@
 # Week 1: Introduction to Dart
 
-**Name:** Your Name \n
-**Section:** U-#L \n
-**Student number:** 2018 - 12345 \n
+**Name:** Your Name <br/>
+**Section:** U-#L <br/>
+**Student number:** 2018 - 12345 <br/>
 
 ## Code Description
 
@@ -21,7 +21,7 @@ Describe your challenges here
 1. Initial commit - added a README file
 2. added the main dart file
 3. added a note to the main file
-4.
+4. edited README format
 
 ## References
 
