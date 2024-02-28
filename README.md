@@ -1,8 +1,8 @@
 # Week 1: Introduction to Dart
 
-**Name:** Your Name <br/>
-**Section:** U-#L <br/>
-**Student number:** 2018 - 12345 <br/>
+**Name:** Dalw Martin Asiddao <br/>
+**Section:** U4L <br/>
+**Student number:** 2022-03832 <br/>
 
 ## Code Description
 
